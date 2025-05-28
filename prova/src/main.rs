@@ -1,3 +1,1 @@
-fn main() {
-    println!("Hello, world!");
-}
+// prova rust 28/05
